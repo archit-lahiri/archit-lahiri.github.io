@@ -4,7 +4,6 @@ title:               Blogs by Archit
 description:         'An open canvas for me to put my thoughts and stories'
 url:                 https://archit-lahiri.github.io
 baseurl:             ''
-paginate:            5
 permalink:           pretty
 
 # About/contact
@@ -13,10 +12,5 @@ author:
 #  url:               
   email:             archit.lahiri@gmail.com
 
-# Gems
-plugins:
-  - jekyll-paginate
-
 # Custom vars
-version:             1.1.0
 google_analytics_id: #UA-XXXX-Y
