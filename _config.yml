@@ -2,7 +2,7 @@
 title:               Blogs by Archit
 #tagline:             'Thoughts and Stories'
 description:         'An open canvas for me to put my thoughts and stories'
-url:                 http://archit-lahiri@github.io
+url:                 https://archit-lahiri@github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
