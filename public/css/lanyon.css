@@ -556,3 +556,20 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/* Profile picture on the homepage */
+.profile-pic {
+  display: block;
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 0 1.5rem;
+}
+
+/* Images inside posts */
+.post img,
+.content img {
+  max-width: 100%;
+  height: auto;
+}
