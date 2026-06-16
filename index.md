@@ -19,5 +19,5 @@ Reach me at [{{ site.author.email }}](mailto:{{ site.author.email }}).
 
 <div class="blog-entry" markdown="0">
   <strong><a href="{% post_url 2026-06-16-faith-for-a-fairytale %}">Faith for a Fairytale</a></strong> <span style="color:#9a9a9a;">— 16 Jun 2026</span><br>
-  The world of debate has witnessed an anomaly. India won it's first major international competition in more than 10 years, that too by debaters who hadn't gone beyond octofinals at a majors before that. This is a tribute piece on how three debaters broke India's decade-long dry spell. Having seen a first hand view of their struggles, I write about the gravity of the choices they made and what I've learnt from them on what it takes to be a champion against the odds.
+  The world of debate has witnessed an anomaly. India won it's first major international competition in more than 10 years. This is a tribute piece on how three debaters broke India's decade-long dry spell. Having seen a first hand view of their struggles, I write about the gravity of the choices they made and what I've learnt from them on what it takes to be a champion against the odds.
 </div>
